@@ -21,9 +21,9 @@
 </ol>
 <h6>Ниже пример кода из нашего приложения:</h6>
 
-'''css
+```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
-'''
+```
